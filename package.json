@@ -28,7 +28,7 @@
       "not op_mini all"
     ],
     "development": [
-      "last 0 chrome version",
+      "last 1 chrome version",
       "last 0 firefox version",
       "last 0 safari version"
     ]
